@@ -1,0 +1,28 @@
+{
+  "name": "ch220",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "watch": "webpack --config webpack.config.js --watch",
+    "start": "webpack --config webpack.config.js && webpack-dev-server --open"
+  },
+  "author": "Justin Kuhn",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "three": "^0.115.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "three-gltf-loader": "^1.111.0",
+    "three.interaction": "^0.2.2",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

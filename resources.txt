@@ -1,0 +1,39 @@
+
+Webpack guide on assets
+https://webpack.js.org/guides/asset-management/
+
+token
+fde5b6eb6397affc885ba1e60a36af41800c93fc
+
+Tutorials
+https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html
+https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene
+https://www.august.com.au/blog/animating-scenes-with-webgl-three-js/
+http://www.cjgammon.com/
+https://www.udacity.com/course/interactive-3d-graphics--cs291
+http://learningthreejs.com/
+
+
+es6 syntax
+https://exploringjs.com/es6/ch_modules.html
+
+multiple scenes
+https://threejsfundamentals.org/threejs/lessons/threejs-multiple-scenes.html
+https://threejs.org/examples/webgl_multiple_elements.html
+https://threejs.org/examples/#webgl_multiple_scenes_comparison
+
+Three js User Data
+https://stackoverflow.com/questions/18319154/with-three-js-can-i-attach-information-to-an-object-such-as-a-url
+
+
+Things to understand
+1. HTML templates
+2. html canvas element
+3. three js and class structures
+4. css types for template display
+
+building step by step
+1. one div with one scene and text based on a template
+2. write class for creating the one scene and description
+3. develop api
+4. make buttons on the page that create instances of the class
